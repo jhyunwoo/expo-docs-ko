@@ -1,0 +1,15 @@
+HTTP/2 103 
+link: </_next/static/css/4386384f02a41659.css>; as=style; rel=preload, </_next/static/css/74fc351921f6806e.css>; as=style; rel=preload, <https://i3.ytimg.com/vi/QqNZXdGFl44/maxresdefault.jpg>; as=image; rel=preload, </static/images/expo-router/native-tabs.png>; as=image; rel=preload, </static/images/expo-router/native-tabs-badges.png>; as=image; rel=preload, </static/images/expo-router/ios-26-search-tab.png>; as=image; rel=preload, </static/images/expo-router/ios-26-search-bar.png>; as=image; rel=preload
+
+HTTP/2 200 
+date: Fri, 13 Mar 2026 15:29:47 GMT
+content-type: text/markdown; charset=utf-8
+content-length: 34938
+cf-ray: 9dbc13811e041fb3-ICN
+report-to: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=%2F7%2BMPppzBdpm7TNJO4%2FbF6xVrV8Vory1xl9nVNdPcrkVhleLFZ96ko9A%2FLLLt1koFWT4s8rB8hi2bnBzgNQQYGRYe9zQyiLq2iatsBvAauQCc%2FB3bnLt7ybg6l6P3ieR"}],"group":"cf-nel","max_age":604800}
+nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+vary: Accept-Encoding
+cf-cache-status: DYNAMIC
+server: cloudflare
+alt-svc: h3=":443"; ma=86400
+

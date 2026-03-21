@@ -1,0 +1,17 @@
+{
+  "name": "expo-docs-ko",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "CLI for mirroring and translating Expo documentation into Korean Markdown.",
+  "engines": {
+    "node": ">=22.0.0"
+  },
+  "scripts": {
+    "discover": "node ./src/cli.js discover",
+    "translate": "node ./src/cli.js translate",
+    "verify": "node ./src/cli.js verify",
+    "sync": "node ./src/cli.js sync",
+    "test": "node --test"
+  }
+}

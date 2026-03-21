@@ -1,0 +1,21 @@
+{
+  "generatedAt": "2026-03-14T00:05:17.485Z",
+  "routeCount": 385,
+  "translatedFileCount": 385,
+  "issueCount": 0,
+  "manualQaSamples": [
+    "/",
+    "/accounts/account-types/",
+    "/additional-resources/",
+    "/app-signing/app-credentials/",
+    "/bare/install-dev-builds-in-bare/",
+    "/billing/faq/",
+    "/brownfield/integrated-approach/",
+    "/build-reference/android-builds/",
+    "/build/",
+    "/config-plugins/",
+    "/core-concepts/",
+    "/custom-builds/functions/"
+  ],
+  "issues": []
+}

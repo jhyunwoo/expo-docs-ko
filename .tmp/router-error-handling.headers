@@ -1,0 +1,15 @@
+HTTP/2 103 
+link: </_next/static/css/4386384f02a41659.css>; as=style; rel=preload, </_next/static/css/74fc351921f6806e.css>; as=style; rel=preload, </static/images/expo-router/unmatched.png>; as=image; rel=preload, </static/images/expo-router/error-boundaries.png>; as=image; rel=preload
+
+HTTP/2 200 
+date: Fri, 13 Mar 2026 15:57:15 GMT
+content-type: text/markdown; charset=utf-8
+content-length: 2672
+cf-ray: 9dbc3bbb1a24ea97-ICN
+report-to: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=bey2%2FA7mE5fLs7VreT3XUCT%2B1%2F1eEA5ybEc5U3zG470xPtNVrMhenzibFk2cuEygyLfukfl6NUP9nHl5oLd6Pje5KuSJldoyEmuerUMhqpI54%2BUwEPrX%2BMq29kcIScLj"}],"group":"cf-nel","max_age":604800}
+nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+vary: Accept-Encoding
+cf-cache-status: DYNAMIC
+server: cloudflare
+alt-svc: h3=":443"; ma=86400
+

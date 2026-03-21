@@ -1,0 +1,15 @@
+HTTP/2 103 
+link: </_next/static/css/4386384f02a41659.css>; as=style; rel=preload
+
+HTTP/2 200 
+date: Fri, 13 Mar 2026 16:01:14 GMT
+content-type: text/markdown; charset=utf-8
+content-length: 14786
+cf-ray: 9dbc419069ac5141-ICN
+report-to: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=loeW8L8OsZz1tW4RUlPkufL9Ah3mBUmdyjUnLynVVGEANOK96qw%2FRcNvfKBq%2BJ%2FK04ldpqWaCA5Xo8oV4SR7Fw%2FvX99Am8s6Lx%2BTViSNthHtVTOjBz4pPiWNjVLu7j3f"}],"group":"cf-nel","max_age":604800}
+nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+vary: Accept-Encoding
+cf-cache-status: DYNAMIC
+server: cloudflare
+alt-svc: h3=":443"; ma=86400
+
